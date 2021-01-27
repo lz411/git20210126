@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloGit/HelloGit.iml" filepath="$PROJECT_DIR$/HelloGit/HelloGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HelloWorldSpringBoot/HelloWorldSpringBoot.iml" filepath="$PROJECT_DIR$/HelloWorldSpringBoot/HelloWorldSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldSpringBoot/demo.iml" filepath="$PROJECT_DIR$/HelloWorldSpringBoot/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/git20210126.iml" filepath="$PROJECT_DIR$/.idea/git20210126.iml" />
     </modules>
   </component>
